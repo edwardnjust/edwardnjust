@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @edwardnjust
 - 👀 I’m interested in OS/C++/
-- 🌱 I’m currently learning Java/C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning SPH
+- 💞️ I’m looking to collaborate on https://acsa.ustc.edu.cn/people/wangchao/
+- 📫 How to reach me wangc2023@mail.ustc.edu.cn
 
 <!---
 edwardnjust/edwardnjust is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
