@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @edwardnjust
 - 👀 I’m interested in OS/C++/
-- 🌱 I’m currently learning SPH
+- 🌱 I’m currently learning LU factorisation.
 - 💞️ I’m looking to collaborate on https://acsa.ustc.edu.cn/people/wangchao/
 - 📫 How to reach me wangc2023@mail.ustc.edu.cn
 
